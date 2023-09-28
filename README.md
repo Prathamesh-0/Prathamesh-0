@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prathamesh-0. I know Python, C++ and Flutter
-- 🌱 I’m have decent knowledge of Javascript.
-- 💞️ I’m looking to collaborate on some Flutter or Javascript projects
+- 👋 Hi, I’m @Prathamesh-0. I like to code in JavaScript, C++, MERN stack.
+- 🌱 I’m just love React.js.
+- 💞️ I’m looking to collaborate on some Exciting projects
 - 📫 Reach me out prathameshingle0@gmail.com
 
 <!---
